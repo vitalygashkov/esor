@@ -55,7 +55,7 @@
   "devDependencies": {
     "@types/node": "^25.1.0",
     "msw": "^2.12.7",
-    "oxfmt": "^0.27.0",
+    "oxfmt": "^0.33.0",
     "oxlint": "^1.42.0",
     "tsdown": "^0.20.1",
     "typescript": "^5.9.3",
