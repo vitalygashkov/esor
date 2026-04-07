@@ -15,8 +15,8 @@ importers:
         specifier: ^7.0.6
         version: 7.0.6
       ky:
-        specifier: ^1.7.5
-        version: 1.14.3
+        specifier: ^2.0.0
+        version: 2.0.0
     devDependencies:
       '@types/node':
         specifier: ^25.1.0
@@ -791,9 +791,9 @@ packages:
     engines: {node: '>=6'}
     hasBin: true
 
-  ky@1.14.3:
-    resolution: {integrity: sha512-9zy9lkjac+TR1c2tG+mkNSVlyOpInnWdSMiue4F+kq8TwJSgv6o8jhLRg8Ho6SnZ9wOYUq/yozts9qQCfk7bIw==}
-    engines: {node: '>=18'}
+  ky@2.0.0:
+    resolution: {integrity: sha512-KzI4Vz5AbZFAUFYGx28PCSfFWUo6/qj9Br/P6KRwDieE1xfdz0tIONepJcLw/1xLocN13GgvfJGasa+pfSkbHg==}
+    engines: {node: '>=22'}
 
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
@@ -1688,7 +1688,7 @@ snapshots:
 
   jsesc@3.1.0: {}
 
-  ky@1.14.3: {}
+  ky@2.0.0: {}
 
   magic-string@0.30.21:
     dependencies:
